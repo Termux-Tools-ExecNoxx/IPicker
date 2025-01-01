@@ -1,0 +1,15 @@
+🔰IPICKER
+
+♻️A simple IP locator tool
+
+✔️INSTALLATION:
+
+• apt-get install python3
+
+• git clone https://github.com/Deadpool2000/IPicker.git
+
+• cd IPicker
+
+• python3 ipicker.py  
+
+⚠️Termux tools are for educational use only. For more information about this tool, visit the GitHub link.
